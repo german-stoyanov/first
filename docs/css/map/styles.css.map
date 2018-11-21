@@ -1,0 +1,1 @@
+{"version":3,"sources":["_typography.scss","styles.scss"],"names":[],"mappings":"AAAA,I,CACI,c,CACA,e,CCCA,e","file":"../styles.css","sourcesContent":["html{\r\n    font-size: 30px;\r\n    font-weight: bold;\r\n}","@import 'typography';\r\n\r\nhtml{\r\n    background: blue;\r\n}"]}
